@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: This is the homepage of Alexia Bono
+description: Links projects
+plugins:
+  - jemoji
